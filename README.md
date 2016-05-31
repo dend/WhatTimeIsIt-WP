@@ -1,3 +1,5 @@
+[![Project Status: Unsupported - The project has reached a stable, usable state but the author(s) have ceased all work on it. A new maintainer may be desired.](http://www.repostatus.org/badges/latest/unsupported.svg)](http://www.repostatus.org/#unsupported)
+
 **WhatTimeIsIT-WP**
 -------------------
 This project is technically a port for Windows Phone of [this implementation][1]. It shows the current time in the form of a video - from the art project called [**Standard Time** by Mark Formanek][2].
